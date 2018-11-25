@@ -1,0 +1,6 @@
+E:\bitm c\ListImplementationApp\ListImplementationApp\bin\ListImplementationApp.dll.config
+E:\bitm c\ListImplementationApp\ListImplementationApp\bin\ListImplementationApp.dll
+E:\bitm c\ListImplementationApp\ListImplementationApp\bin\ListImplementationApp.pdb
+E:\bitm c\ListImplementationApp\ListImplementationApp\obj\Debug\ListImplementationApp.csprojResolveAssemblyReference.cache
+E:\bitm c\ListImplementationApp\ListImplementationApp\obj\Debug\ListImplementationApp.dll
+E:\bitm c\ListImplementationApp\ListImplementationApp\obj\Debug\ListImplementationApp.pdb
